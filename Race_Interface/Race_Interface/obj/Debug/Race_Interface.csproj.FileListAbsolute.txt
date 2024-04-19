@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\C++\Race_Interface\Race_Interface\bin\Debug\Race_Interface.exe.config
+C:\Users\Admin\Desktop\C++\Race_Interface\Race_Interface\bin\Debug\Race_Interface.exe
+C:\Users\Admin\Desktop\C++\Race_Interface\Race_Interface\bin\Debug\Race_Interface.pdb
+C:\Users\Admin\Desktop\C++\Race_Interface\Race_Interface\obj\Debug\Race_Interface.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C++\Race_Interface\Race_Interface\obj\Debug\Race_Interface.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C++\Race_Interface\Race_Interface\obj\Debug\Race_Interface.exe
+C:\Users\Admin\Desktop\C++\Race_Interface\Race_Interface\obj\Debug\Race_Interface.pdb

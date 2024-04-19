@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\C++\Rennen\Rennen\bin\Debug\Rennen.exe.config
+C:\Users\Admin\Desktop\C++\Rennen\Rennen\bin\Debug\Rennen.exe
+C:\Users\Admin\Desktop\C++\Rennen\Rennen\bin\Debug\Rennen.pdb
+C:\Users\Admin\Desktop\C++\Rennen\Rennen\obj\Debug\Rennen.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C++\Rennen\Rennen\obj\Debug\Rennen.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C++\Rennen\Rennen\obj\Debug\Rennen.exe
+C:\Users\Admin\Desktop\C++\Rennen\Rennen\obj\Debug\Rennen.pdb
